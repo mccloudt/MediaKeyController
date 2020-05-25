@@ -24,7 +24,7 @@ while 1:
                 #previous track
                 win32api.keybd_event(VK_MEDIA_PREV_TRACK, 0, KEYEVENTF_EXTENDEDKEY, 0)
                 lastTwo.clear()
-            if 'BTN_START' in lastTwo:
+            if 'BTN_WEST' in lastTwo:
                 #play/pause
                 win32api.keybd_event(VK_MEDIA_PLAY_PAUSE, 0, KEYEVENTF_EXTENDEDKEY, 0)
                 lastTwo.clear()
