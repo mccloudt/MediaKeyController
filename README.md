@@ -1,4 +1,4 @@
-# Media Key Controller
+# Media Key Controller - Xbox 360/One/DS4 Compatible
 ## Why?
 I made this to easily control media playing on my PC in games such as Forza 4: Horizon, but if you're playing any game on a PC and want to control your media without having to reach to the keyboard, this will work.
 
