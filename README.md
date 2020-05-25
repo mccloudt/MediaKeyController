@@ -19,4 +19,4 @@ Left Thumbstick Press + Right Thumbstick Press
 ### Previous Track
 Left Bumper Press + Right Bumper Press
 ### Pause/Play
-Select
+X/Square - Not the most convenient key but the least used available key.
