@@ -1,6 +1,9 @@
 # Media Key Controller - Xbox 360/One/DS4 Compatible
+## Note:
+Whilst I built this for Forza, it doesn't actually work in Forza. The problem is, the script is reading the controller buttons and then effectively sending keyboard presses to the computer that emulate the media keys present on a keyboard. Do this in Forza, and it will lose focus of the controller and default to mouse and keyboard. You'll have to pause the game, then back out of the pause menu with the controller to resume use. So this is effectively DOA unless you want to use it for anything else.
+
 ## Why?
-I made this to easily control media playing on my PC in games such as Forza 4: Horizon, but if you're playing any game on a PC and want to control your media without having to reach to the keyboard, this will work.
+I made this to easily control media playing on my PC in games such as Forza Horizon: 4, but if you're playing any game on a PC and want to control your media without having to reach to the keyboard, this will work.
 
 ## Usage
 ### Customising
